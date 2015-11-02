@@ -26,17 +26,15 @@ development version:
         "steventsimpson/lassie"
     )
 
-Contact
-=======
 
 
 Contact
 =======
 
 You are welcome to:     
-\* submit suggestions and bug-reports at: <https://github.com/steventsimpson/lassie/issues>
-\* send a pull request on: <https://github.com/steventsimpson/lassie/issues>      
-\* compose a friendly e-mail to: <SSimpson@CampusLabs.com>     
+- submit suggestions and bug-reports at: <https://github.com/steventsimpson/lassie/issues>
+- send a pull request on: <https://github.com/steventsimpson/lassie/issues>      
+- compose a friendly e-mail to: <steven.troy.simpson@gmail.com>     
 
 
 

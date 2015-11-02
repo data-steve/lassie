@@ -49,4 +49,3 @@ url_fixer <- function(x) {
   gsub("\\[TEMP\\]", "%20", gsub("\\+'\\.'\\+", "+", gsub("(\\+)?%[[:alnum:]]{2,4}", "", x)))
 }
 
-

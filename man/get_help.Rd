@@ -12,8 +12,15 @@ get_help(...)
 \description{
 This function walks a user through the process of understanding errors and
 warnings; providing applicable StackOverflow and GitHub or Google searches.
-Last, helps the suer to format a proper StackOverflow question or GitHub
+Last, helps the user to format a proper StackOverflow question or GitHub
 issues post.
+}
+\note{
+This function cannot help with errors stemming from R's parser
+rejecting the code as valid code. The error will occur before our function
+will have been called. If such an error occurs, it means the code is not
+well-formed. The following SO link gives common errors that fall into the
+parse error class: \url{http://stackoverflow.com/q/25889234/1000343}.
 }
 \examples{
 \dontrun{

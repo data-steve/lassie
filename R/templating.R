@@ -57,11 +57,11 @@ read_template <- function(temploc){
 
   ## Check for internal use line
   ## "^INTERNAL USE: DO NOT ALTER INFORMATION BELOW"
-  internal_line <- grep("^INTERNAL USE: DO NOT ALTER INFORMATION BELOW", p)[1]
+  internal_line <- grep("^INTERNAL USE\\. DO NOT ALTER INFORMATION BELOW", p)[1]
 
   if (is.na(internal_line)) {
     warning(paste0(
-      "Template missing the line: `INTERNAL USE: DO NOT ALTER INFORMATION BELOW`\n",
+      "Template missing the line. `INTERNAL USE: DO NOT ALTER INFORMATION BELOW`\n",
       "Results may be incorrect."
     ))
   } else {
