@@ -3,7 +3,7 @@ lassie
 
 ![](https://pbs.twimg.com/media/A-vpCIUCIAA0EjS.jpg)
 
-**Lassie** was always there to help Timmy get help with whatever problem he was facing. No matter what Timmy said, Lassie always understood what kind of help was needed and how to ask for it. 
+Famous pooch Lassie was always there to help Timmy get help with whatever problem he was facing. No matter what Timmy said, Lassie always understood what kind of help was needed and how to ask for it. 
 
 The **lassie** package strives to give R users the same kind of support in finding help for their R needs, by EITHER auto-searching for help on StackOverflow, Github, or Google OR auto-templating and posting well-formed questions to StackOverflow. 
 
