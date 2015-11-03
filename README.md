@@ -14,7 +14,7 @@ Example
 ============
 
 ```r
-# common error for those coming from python
+# common error for those coming from python :)
 lassie::get_help("S"*6)
 ```
 
