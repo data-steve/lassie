@@ -10,6 +10,14 @@ The **lassie** package strives to give R users the same kind of support in findi
 - Auto-templating and posting well-formed questions to StackOverflow, if search didn't help. 
 
 
+Example
+============
+
+```r
+lassie::get_help("S"*6)
+```
+
+
 Installation
 ============
 
