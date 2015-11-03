@@ -27,5 +27,3 @@ secondary_question <- function(message, opts = c("Yes", "No, Post to StackOverfl
   message(message)
   menu(opts)
 }
-
-

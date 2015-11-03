@@ -73,4 +73,3 @@ package_details <- function(sessinfo){
 
 
 
-

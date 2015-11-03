@@ -3,9 +3,19 @@ lassie
 
 ![](https://pbs.twimg.com/media/A-vpCIUCIAA0EjS.jpg)
 
-**Lassie** was always there to help Timmy get help with whatever problem he was facing. No matter what Timmy said, Lassie always understood what kind of help was needed and how to ask for it. 
+Famous pooch Lassie was always there to help Timmy get help with whatever problem he was facing. No matter what Timmy said, Lassie always understood what kind of help was needed and how to ask for it. 
 
-The **lassie** package strives to give R users the same kind of support in finding help for their R needs, by EITHER auto-searching for help on StackOverflow, Github, or Google OR auto-templating and posting well-formed questions to StackOverflow. 
+The **lassie** package strives to give R users the same kind of support in finding help for their R needs, by 
+- Auto-searching for help on StackOverflow, Github, or Google 
+- Auto-templating and posting well-formed questions to StackOverflow, if search didn't help. 
+
+
+Example
+============
+
+```r
+lassie::get_help("S"*6)
+```
 
 
 Installation
@@ -26,17 +36,15 @@ development version:
         "steventsimpson/lassie"
     )
 
-Contact
-=======
 
 
 Contact
 =======
 
 You are welcome to:     
-\* submit suggestions and bug-reports at: <https://github.com/steventsimpson/lassie/issues>
-\* send a pull request on: <https://github.com/steventsimpson/lassie/issues>      
-\* compose a friendly e-mail to: <SSimpson@CampusLabs.com>     
+- submit suggestions and bug-reports at: <https://github.com/steventsimpson/lassie/issues>
+- send a pull request on: <https://github.com/steventsimpson/lassie/issues>      
+- compose a friendly e-mail to: <steven.troy.simpson@gmail.com>     
 
 
 
