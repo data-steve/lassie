@@ -1,7 +1,7 @@
 lassie
 ============
 
-![](http://imgc-cn.artprintimages.com/images/P-473-488-90/60/6066/AEZD100Z/posters/arnie-levin-lassie-get-tech-support-new-yorker-cartoon.jpg)
+![](http://imagecache5d.art.com/Crop/cropwm.jpg?img=-65-6594-KQU2100Z&x=0&y=0&w=1000&h=1000&size=2&maxw=942&maxh=942&q=100)
 
 Famous pooch Lassie was always there to help Timmy get help with whatever problem he was facing. No matter what Timmy said, Lassie always understood what kind of help was needed and how to ask for it. 
 
