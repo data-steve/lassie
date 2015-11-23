@@ -62,13 +62,15 @@ get_help <- function(...){
   so_helped <- so_question("\nDid StackOverflow help?    (Enter number corresponding to choice.)")
 
   if (isTRUE(so_helped)) {
-    send_multiple_response(err, err_funs, err_package,  so_url, so_helped, secondary_url = "", secondary_helped = "")
+    lassie_says <- c(c(err, err_funs, err_package,  so_url, so_helped, secondary_url = "", secondary_helped = ""))
+    whats_that_lassie(lassie_says)
   } else {
 
     secondary_url <- github_google_search(err, err_funs, err_package, package_details(sessinfo))
     secondary_helped <- secondary_question("\nDid this help?  (Enter number corresponding to choice.)")
 
-    send_multiple_response(err, err_funs, err_package,  so_url, so_helped, secondary_url, secondary_helped)
+    lassie_says <- c(err, err_funs, err_package,  so_url, so_helped, secondary_url, secondary_helped)
+    whats_that_lassie(lassie_says)
 
     if (!isTRUE(secondary_helped)) {
       ###############################################
