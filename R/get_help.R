@@ -14,6 +14,7 @@
 #' parse error class: \url{http://stackoverflow.com/q/25889234/1000343}.
 #' @export
 #' @importFrom magrittr %>%
+#' @importFrom googleformr gformr
 #' @examples
 #' \dontrun{
 #' p <- 1:10
