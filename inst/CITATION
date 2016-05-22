@@ -7,9 +7,9 @@ citEntry(entry = "manual",
     address = "Buffalo, New York",
     note = "version 0.0.1",
     year = "2015",
-    url = "http://github.com/steventsimpson/lassie",
+    url = "http://github.com/data-steve/lassie",
     textVersion  = paste("Simpson, S. & Rinker, T. W. (2015).",
         "lassie: Getting Help for Errors and Warnings",
         "version 0.0.1.",
-        "http://github.com/steventsimpson/lassie")
+        "http://github.com/data-steve/lassie")
 )
